@@ -1,0 +1,25 @@
+{
+  "itunes:author" : "The TKM Show",
+  "itunes:summary" : "Home of TKM&apos;s very own podcast. Here we bring you everything from alumni interviews, interactive sessions and a platform for voices of TKM to reign free.",
+  "itunes:owner" : {
+    "itunes:name" : "The TKM Show",
+    "itunes:email" : "podcasts60+249bf89c@anchor.fm"
+  },
+  "image" : "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6042015/6042015-1591172558348-8d8b77870bd83.jpg",
+  "author" : "The TKM Show",
+  "lastBuildDate" : "Sat, 13 Jun 2020 07:45:20 GMT",
+  "itunes:explicit" : "No",
+  "title" : "The TKM Show",
+  "link" : "https://thetkmshow.in/",
+  "copyright" : "The TKM Show",
+  "generator" : "Anchor Podcasts",
+  "itunes:type" : "episodic",
+  "language" : "ml",
+  "itunes:category/" : {
+    "attributes" : {
+      "text" : "Leisure"
+    }
+  },
+  "itunes:image" : "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6042015/6042015-1591172558348-8d8b77870bd83.jpg",
+  "description" : "Home of TKM's very own podcast. Here we bring you everything from alumni interviews, interactive sessions and a platform for voices of TKM to reign free."
+}
